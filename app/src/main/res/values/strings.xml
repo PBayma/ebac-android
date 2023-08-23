@@ -8,6 +8,6 @@
     <string name="previous">Voltar</string>
 
     <string name="lorem_ipsum">
-      Eu amo programar!! Muito interessante esse modo de utilizar strings. Parece internacionalização do flutter.
+      Começando a programar com kotlin
     </string>
 </resources>
