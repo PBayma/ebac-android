@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ILovePrograming</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primeira Página</string>
+    <string name="second_fragment_label">Segunda Página</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Voltar</string>
+
+    <string name="lorem_ipsum">
+      Eu amo programar!! Muito interessante esse modo de utilizar strings. Parece internacionalização do flutter.
+    </string>
+</resources>
